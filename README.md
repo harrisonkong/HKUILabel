@@ -1,5 +1,5 @@
 # HKUILabel
-#### HK Enhanced HKUILabel
+#### Harrison Kong's Enhanced UILabel
 
 ## VERSION HISTORY ##
 
@@ -7,9 +7,9 @@
 
 ## MINIMUM REQUIREMENTS ##
 
-Swift 4.0 or above
+**Swift** 4.0 or above
 
-iOS 11.0 or above
+**iOS** 11.0 or above
 
 ## WHAT IS IT? ##
 
