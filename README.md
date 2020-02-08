@@ -38,7 +38,7 @@ There are no known issues currently.
 
 ### Using CocoaPod ###
 
-The spec is avabilable in the Trunk of CocoaPods. Below is an example podfile. If you already use a podfile for your project, all you have to do is add the line that specifies `HKUILabel`
+The module is avabilable via CocoaPods Trunk. Below is an example podfile. If you already use a podfile for your project, all you have to do is add the line that specifies `HKUILabel`. The other dependencies will also be automatically installed in the xcworkspace.
 
 ```
 platform :ios, '11.0'
@@ -85,6 +85,22 @@ post_install do |installer|
         end
     end
 end
+```
+
+Don't forget to import the module in your source code:
+
+```
+import HKUILabel
+```
+
+### INCLUDING THE SOURCE FILES ###
+
+You can also simply include the following source files in your project:
+
+```
+HKUILabel.swift
+UIView+HKUtilities.swift
+UIView+LengthCalculationBasis.swift
 ```
 
 ## HOW TO USE IT ##
