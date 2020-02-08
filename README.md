@@ -13,7 +13,7 @@
 
 ## WHAT IS IT? ##
 
-HKUILabel enhances the functionality of UILabel by providing these additional features:
+`HKUILabel` enhances the functionality of UILabel by providing these additional features:
 
 ### Dynamic Font Scaling ###
 
