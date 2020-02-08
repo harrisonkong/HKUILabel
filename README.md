@@ -30,10 +30,6 @@ The following figures show the differences:
 
 (insert screen shots here)
 
-## KNOWN ISSUES ##
-
-There are no known issues currently.
-
 ## HOW TO INSTALL IT ##
 
 Use one of the following methods:
