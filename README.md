@@ -1,5 +1,6 @@
 # <img src="./docs/logo256.jpg" width="25" height="25" alt="skyRoute66 logo"> HKUILabel
 #### Harrison Kong's Enhanced UILabel
+<img src="./docs/cloudline.png" alt="---line---">
 
 ## VERSION HISTORY ##
 
@@ -10,6 +11,8 @@
 **Swift** 4.0 or above
 
 **iOS** 11.0 or above
+
+<img src="./docs/cloudline.png" alt="---line---">
 
 ## WHAT IS IT? ##
 
@@ -29,6 +32,8 @@ This is useful for labels that change size (e.g. device rotation) or for caterin
 The following figures show the differences:
 
 (insert screen shots here)
+
+<img src="./docs/cloudline.png" alt="---line---">
 
 ## HOW TO INSTALL IT ##
 
@@ -101,6 +106,8 @@ UIView+HKUtilities.swift
 UIView+LengthCalculationBasis.swift
 ```
 
+<img src="./docs/cloudline.png" alt="---line---">
+
 ## HOW TO USE IT ##
 
 ### Interface Builder ###
@@ -154,6 +161,8 @@ Note that the second attribute `fontBasis` is an enumeration type that is declar
 ```
 
 However, `.constant` is not used or recognized by this class.
+
+<img src="./docs/cloudline.png" alt="---line---">
 
 ## KNOWN ISSUES ##
 
