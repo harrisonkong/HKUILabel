@@ -34,7 +34,7 @@ This is useful for labels that change size (e.g. device rotation) or for caterin
 
 The following figures show the differences:
 
-(insert screen shots here)
+<img src="./docs/Without-Scaling.jpg" width="294" height="252" alt="without font scaling screenshot"> <img src="./docs/With-Scaling.jpg" width="294" height="252" alt="with font scaling screenshot">
 
 <img src="./docs/cloudline.png" alt="---line---">
 
