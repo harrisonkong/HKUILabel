@@ -1,4 +1,4 @@
-# HKUILabel
+# <img src="./docs/logo256.jpg" width="256" height="256" alt="skyRoute66 logo"> HKUILabel
 #### Harrison Kong's Enhanced UILabel
 
 ## VERSION HISTORY ##
