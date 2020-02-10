@@ -117,13 +117,13 @@ UIView+LengthCalculationBasis.swift
 
 1. Drop a UILabel in your view controller then change the class in the *Identity Inspector* pane to HKUILabel like this:
 
-    (insert screen shot)
+<img src="./docs/Identity-Inspector.png" alt="identity inspector pane screenshot">
 
-    Note that you might need to wait for the design time code to compile after setting the class.
+Note that you might need to wait for the design time code to compile after setting the class.
 
 2. There will be 3 inspectable variables at the *Attribute Inspector* pane:
 
-    (insert screen shot)
+<img src="./docs/Attribute-Inspector.png" alt="attribute inspector pane screenshot">
 
   - the first one **Auto Font Sizing** is an on/off switch to control whether automatic font sizing will be enabled.
   - the second attribute **Auto Font Size Basis** is an integer that corresponds to the following:
