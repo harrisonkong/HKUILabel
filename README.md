@@ -1,5 +1,8 @@
-# <img src="./docs/logo256.jpg" width="25" height="25" alt="skyRoute66 logo"> HKUILabel
+# <img src="./docs/logo256.jpg" width="40" height="40" alt="skyRoute66 logo" style="vertical-align:middle"> HKUILabel
 #### Harrison Kong's Enhanced UILabel
+
+<img src="./docs/HKUILabel.png" alt="HKUILabel screenshot">
+
 <img src="./docs/cloudline.png" alt="---line---">
 
 ## VERSION HISTORY ##
